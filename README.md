@@ -29,7 +29,7 @@ A line plot showing the probability of being late vs. the time Rita leaves home.
 
 1. Clone the repository:
 ```
-git clone https://github.com/YOUR_USERNAME/rmk-data-challenge-2025.git
+git clone https://github.com/johannesmurulaid/rmk-data-challenge-2025.git
 cd rmk-data-challenge-2025
 ```
 
